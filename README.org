@@ -1,0 +1,10 @@
+* lispcord
+
+A client library for the discordapp bot api
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lispcord/lispcord.git   |
+| commit  | 0460017  |
+| systems | lispcord |
+|---------+-------------------------------------------|
+

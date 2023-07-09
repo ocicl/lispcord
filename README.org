@@ -2,9 +2,8 @@
 
 A client library for the discordapp bot api
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/lispcord/lispcord.git   |
-| commit  | 0460017  |
-| systems | lispcord |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/lispcord/lispcord.git |
+| commit  | a5c2156                                      |
+| systems | lispcord                                     |
+|---------+----------------------------------------------|
